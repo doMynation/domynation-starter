@@ -1,0 +1,14 @@
+{
+    "name": "domynation/domynation-starter",
+    "description": "A starter template for the doMynation framework.",
+    "require": {
+        "domynation/domynation-framework": "dev-master"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dominique Sarrazin",
+            "email": "domynation@gmail.com"
+        }
+    ]
+}
